@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412378159826",
+    "project_id": "tendencias-ran",
+    "storage_bucket": "tendencias-ran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412378159826:android:48d6b25dfaee1d6280eb0b",
+        "android_client_info": {
+          "package_name": "com.almacen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412378159826-eqs48r7ej00t85v35dm54c2hc0qoj34n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.almacen",
+            "certificate_hash": "875d1c75a53ea977fcf14a929d32b0a35afda8a5"
+          }
+        },
+        {
+          "client_id": "412378159826-gin7pir787dmd3hcomhu2rrnoqangj7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASNkCbpGxoX3s6tzA90pl55glGSuMxoVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412378159826-gin7pir787dmd3hcomhu2rrnoqangj7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
